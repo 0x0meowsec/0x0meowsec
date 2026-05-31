@@ -23,7 +23,7 @@ alias       : 0x0meosec
 role        : Security Researcher & Bug Bounty Hunter
 focus       : [ Web Security, API Abuse, Logic Flaws, Misconfigurations ]
 learning    : [ JavaScript, Python, Go ]
-os          : Kali Linux
+os          : Athena OS
 philosophy  : "If it's connected, it can be compromised."
 ```
 
@@ -32,18 +32,21 @@ philosophy  : "If it's connected, it can be compromised."
 ## `ls -la /skills`
 
 **🔴 Offensive Security**
+
 ![CTF Player](https://img.shields.io/badge/CTF%20Player-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
 ![Bug Hunter](https://img.shields.io/badge/Bug%20Bounty-000000?style=for-the-badge&logo=bugcrowd&logoColor=F5A623)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF8800?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 **💻 Languages**
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
 ---
 
