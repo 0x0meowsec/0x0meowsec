@@ -70,7 +70,7 @@ philosophy  : "If it's connected, it can be compromised."
 
 ---
 
-## `./recon --target github --user 0x0meosec`
+## `./recon --target github --user 0x0meowsec`
 
 <div align="center">
 
